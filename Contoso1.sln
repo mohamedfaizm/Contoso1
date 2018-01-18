@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso1", "Contoso1\Contoso1.csproj", "{2E036050-6176-4C6E-A143-C33BA627EC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso1.Tests", "Contoso1.Tests\Contoso1.Tests.csproj", "{C1030E75-5F33-4D67-9AB6-8441C86D7B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E036050-6176-4C6E-A143-C33BA627EC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E036050-6176-4C6E-A143-C33BA627EC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E036050-6176-4C6E-A143-C33BA627EC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E036050-6176-4C6E-A143-C33BA627EC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1030E75-5F33-4D67-9AB6-8441C86D7B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1030E75-5F33-4D67-9AB6-8441C86D7B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1030E75-5F33-4D67-9AB6-8441C86D7B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1030E75-5F33-4D67-9AB6-8441C86D7B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
